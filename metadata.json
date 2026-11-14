@@ -1,0 +1,10 @@
+{
+  "name": "LibreDesk - Study Hall & Library Membership Manager",
+  "description": "Mobile-first library membership and attendance management system with automated QR check-in, automated billing, push notification payment reminders, peak hour analytics, and retention reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
